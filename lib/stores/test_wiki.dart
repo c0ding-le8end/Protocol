@@ -13,6 +13,7 @@ class TestWiki {
       {
         return categoryList;
       }
+
     return categoryList.where((element) => element.id==id).first;
 
   }
@@ -28,7 +29,6 @@ class TestWiki {
 class TestData {
   String? id;
   String? name;
-  String? path;
   String? type;
   String? shortDesc;
 
@@ -65,18 +65,12 @@ class TestData {
 
 class TestWikiObject {
   String? id;
-  String? title;
-  String? folder;
-  String? imagePath;
   List<Data>? data;
 
-  TestWikiObject({this.id, this.data,this.title});
+  TestWikiObject({this.id, this.data});
 
   TestWikiObject.fromJson(Map<String, dynamic> json) {
     id = json['id'];
-    title=json['title'];
-    folder=json['folder'];
-    imagePath=json['image_path'];
     if (json['data'] != null) {
       data = <Data>[];
       json['data'].forEach((v) {

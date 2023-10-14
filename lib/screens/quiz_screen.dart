@@ -80,9 +80,8 @@ question=controller.quiz!.questions![questionNumber];
       child: SafeArea(
         child: Scaffold(
           body: Container(
-            height: MediaQuery.of(context).size.height,
-            width: MediaQuery.of(context).size.width,
-            padding: const EdgeInsets.fromLTRB(10,10,10,10),
+            alignment: Alignment.center,
+            padding: EdgeInsets.all(10),
             decoration: ThemeHelper.fullScreenBgBoxDecoration(),
             child: SingleChildScrollView(
               child: Column(
@@ -95,7 +94,7 @@ question=controller.quiz!.questions![questionNumber];
                       alignment: Alignment.centerLeft,
                       padding: EdgeInsets.all(20),
                       margin: EdgeInsets.only(bottom: 10),
-                      decoration: ThemeHelper.roundBoxDeco(color: Theme.of(context).colorScheme.background),
+                      decoration: ThemeHelper.roundBoxDeco(),
                       child: Text(
                         question?.text ?? "",
                         style: Theme.of(context).textTheme.headline5,
@@ -137,7 +136,7 @@ question=controller.quiz!.questions![questionNumber];
 
   Widget screenHeader() {
     return Padding(
-      padding: const EdgeInsets.fromLTRB(5,50,5,80),
+      padding: const EdgeInsets.symmetric(vertical: 10.0,horizontal: 5),
       child: Container(
         alignment: Alignment.center,
         child: FittedBox(
@@ -168,7 +167,7 @@ question=controller.quiz!.questions![questionNumber];
      int questionIndex=question!.index!;
     return Container(
       alignment: Alignment.center,
-      decoration: ThemeHelper.roundBoxDeco(color: Colors.transparent),
+      decoration: ThemeHelper.roundBoxDeco(),
       child: SingleChildScrollView(
         child: Column(
           children: List<Option>.from(question?.options ?? []).map((e) {

@@ -6,7 +6,7 @@ import 'package:hovering/hovering.dart';
 import '../common/theme_helper.dart';
 import '../stores/test_wiki.dart';
 
-categoryDetailsItemView({Map<String,String>? style,String folder="leadership_styles",Data? testWikiObjectData,bool disabled=false,String? imagePath} ) {
+categoryDetailsItemView({Map<String,String>? style,String folder="leadership_styles",Data? testWikiObjectData,bool disabled=false} ) {
   if(style==null)
     {
       return Container(
@@ -29,7 +29,7 @@ categoryDetailsItemView({Map<String,String>? style,String folder="leadership_sty
                         child: Image(errorBuilder: (context,Object exception, StackTrace? stackTrace)
                           {
                             return Image(image: AssetImage(
-                                "assets/icons/category/${imagePath!}.png"),width: 130,
+                                "assets/icons/category/conflict-management.png"),width: 130,
                               height: 140,);
                           },
                           image: AssetImage(
@@ -45,9 +45,9 @@ categoryDetailsItemView({Map<String,String>? style,String folder="leadership_sty
                             children: [
                               Text(
                                 "${testWikiObjectData.name}",
-                                style: TextStyle(fontSize: 22,fontFamily: "baloo",fontWeight: FontWeight.w500),
+                                style: TextStyle(fontSize: 22,fontFamily: "baloo"),
                               ),
-                              Text("${testWikiObjectData.shortDesc}",style: TextStyle(fontSize: 18,fontFamily: "OpenSans"),),
+                              Text("${testWikiObjectData.shortDesc}",style: TextStyle(fontSize: 18,fontFamily: "baloo"),),
                             ]),
                       ),
                     ],
@@ -59,7 +59,6 @@ categoryDetailsItemView({Map<String,String>? style,String folder="leadership_sty
         ),
       );
     }
-  print(style);
   return Container(
     alignment: Alignment.centerLeft,
     margin: EdgeInsets.only(bottom: 20),

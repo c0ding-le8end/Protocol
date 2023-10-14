@@ -1,8 +1,6 @@
 [
   {
     "id": "1",
-    "title": "Leadership Styles",
-    "folder": "leadership_styles",
     "data": [
       {"name": "Authoritative",
         "type": "authoritative",
@@ -65,9 +63,6 @@
   },
   {
     "id": "2",
-    "title": "Conflict Management Types",
-    "image_path": "conflict-management",
-    "folder": "conflict_management",
     "data": [
       {"name": "Give in",
         "type": "give_in",
@@ -130,235 +125,63 @@
 
   {
     "id": "3",
-    "title": "MBTI Personality Types",
-    "image_path": "personality",
-    "folder": "personality_types",
     "data": [
-      {
-        "name": "ISTJ",
-        "type": "Introverted_Sensing_Thinking_Judging",
-        "short_desc": "The Inspector",
-        "desc": "ISTJs are practical, responsible, and organized. They are known for their strong work ethic and attention to detail.",
+      {"name": "Give in",
+        "type": "give_in",
+        "short_desc": "I know I’m right and you’re wrong…I’ll just agree with you and move on",
+        "desc": "I know I’m right and you’re wrong…but I don’t know what to do, or it’s too much bother, or who really cares, or you’re too strong, so I’ll just agree with you and move on. This reaction allows resentment to build and can also result in gossiping, bullying and feelings of inadequacy.",
         "strengths": [
-          "Reliable and dependable",
-          "Thorough and detail-oriented",
-          "Loyal and committed"
+          "Minimizes injury when we are outmatched; relationships can be maintained"
         ],
         "weaknesses": [
-          "Inflexible and stubborn at times",
-          "Uncomfortable with change",
-          "Overcritical of themselves and others"
+          "Breeds resentment; exploits the weak"
+        ]
+      },
+      {"name": "Run away",
+        "type": "run_away",
+        "short_desc": "I know I’m right and you’re wrong...o I’m just going to avoid you.",
+        "desc": "I know I’m right and you’re wrong…but you won’t listen to me and I’m intimidated by you so I’m just going to avoid you.This response can lead to passive aggressive behavior, gossiping, subterfuge and sabotage.",
+        "strengths": [
+          "Does not escalate conflict; postpones the inevitable"
+        ],
+        "weaknesses": [
+          "Unaddressed problems; unresolved problems can become bigger problems in the future"
         ]
       },
       {
-        "name": "ISFJ",
-        "type": "Introverted_Sensing_Feeling_Judging",
-        "short_desc": "The Protector",
-        "desc": "ISFJs are warm, considerate, and dedicated. They are caretakers who prioritize the needs of others.",
+        "name": "Team Up",
+        "type": "team_up",
+        "short_desc": "I know I’m right, but maybe you’re right too…perhaps we can listen to each other",
+        "desc": "I know I’m right, but maybe you’re right too…perhaps we can listen to each other and try to see each other’s perspective; try to walk in each other’s shoes.” This response resolves conflict so both parties are satisfied with the result, and negative feelings are minimized.",
         "strengths": [
-          "Compassionate and empathetic",
-          "Dependable and reliable",
-          "Organized and responsible"
+          "Creates mutual trust; maintains positive relationships; builds commitments"
         ],
         "weaknesses": [
-          "Overly self-critical",
-          "Avoids conflict at all costs",
-          "May be too self-sacrificing"
+          "Time consuming; energy consuming"
         ]
       },
-      {
-        "name": "INFJ",
-        "type": "Introverted_Intuition_Feeling_Judging",
-        "short_desc": "The Counselor",
-        "desc": "INFJs are insightful and idealistic. They are driven to make a positive difference in the world.",
+      {"name": "Pressure",
+        "type": "pressure",
+        "short_desc": "I know I’m right and you’re wrong...I’m going to convince you",
+        "desc": "I know I’m right and you’re wrong…so I’m going to convince you to come around to my point of view. You’ll thank me for it.This is an authoritarian approach, which – if not kept in check – can easily slip into bullying or harassment",
         "strengths": [
-          "Empathetic and understanding",
-          "Highly creative and insightful",
-          "Dedicated to their values"
+          "Goal-oriented; quick"
         ],
         "weaknesses": [
-          "Perfectionistic and overly critical",
-          "May have unrealistic expectations",
-          "Tends to be private and reserved"
+          "May breed hostility"
         ]
       },
-      {
-        "name": "INTJ",
-        "type": "Introverted_Intuition_Thinking_Judging",
-        "short_desc": "The Mastermind",
-        "desc": "INTJs are strategic and logical. They are natural problem-solvers and critical thinkers.",
+      {"name": "Compromise",
+        "type": "compromise",
+        "short_desc": "I know I’m right and you’re wrong…you’re never going to come around to my point of view",
+        "desc": "I know I’m right and you’re wrong…but you’re never going to come around to my point of view, so why don’t we agree to disagree and I’ll give in a little bit, and you give in a little bit.This response can be useful in complex situations when there is no simple solution; however, it often leaves both parties unsatisfied to a point where resentment can continue to build.",
         "strengths": [
-          "Analytical and innovative",
-          "Independently minded",
-          "Determined and goal-oriented"
+          "All parties are equal in power."
         ],
         "weaknesses": [
-          "Can be seen as aloof or distant",
-          "Intolerant of inefficiency",
-          "Tends to overthink and overanalyze"
-        ]
-      },
-      {
-        "name": "ISTP",
-        "type": "Introverted_Sensing_Thinking_Perceiving",
-        "short_desc": "The Craftsman",
-        "desc": "ISTPs are practical and hands-on. They excel in working with tools and equipment.",
-        "strengths": [
-          "Adaptable and resourceful",
-          "Mechanically skilled",
-          "Calm and unflappable"
-        ],
-        "weaknesses": [
-          "Risk-takers who may overlook consequences",
-          "May struggle with commitment",
-          "Independent to a fault"
-        ]
-      },
-      {
-        "name": "ISFP",
-        "type": "Introverted_Sensing_Feeling_Perceiving",
-        "short_desc": "The Composer",
-        "desc": "ISFPs are artistic and sensitive. They have a strong appreciation for beauty and aesthetics.",
-        "strengths": [
-          "Artistic and creative",
-          "Compassionate and gentle",
-          "Appreciative of the present moment"
-        ],
-        "weaknesses": [
-          "May avoid conflict and difficult situations",
-          "Tends to be reserved and introverted",
-          "Struggles with long-term planning"
-        ]
-      },
-      {
-        "name": "INFP",
-        "type": "Introverted_Intuition_Feeling_Perceiving",
-        "short_desc": "The Healer",
-        "desc": "INFPs are idealistic and compassionate. They seek to make the world a better place.",
-        "strengths": [
-          "Empathetic and kind-hearted",
-          "Creative and imaginative",
-          "Strong sense of individuality"
-        ],
-        "weaknesses": [
-          "Tendency to be overly idealistic",
-          "Struggles with practical details",
-          "May be too self-critical"
-        ]
-      },
-      {
-        "name": "INTP",
-        "type": "Introverted_Intuition_Thinking_Perceiving",
-        "short_desc": "The Architect",
-        "desc": "INTPs are analytical and curious. They are natural problem-solvers and enjoy intellectual pursuits.",
-        "strengths": [
-          "Logical and independent-minded",
-          "Innovative and creative thinkers",
-          "Open to new ideas and possibilities"
-        ],
-        "weaknesses": [
-          "May be seen as detached or unemotional",
-          "Tends to procrastinate",
-          "Struggles with routine tasks"
-        ]
-      },
-      {
-        "name": "ESTP",
-        "type": "Extraverted_Sensing_Thinking_Perceiving",
-        "short_desc": "The Dynamo",
-        "desc": "ESTPs are energetic and action-oriented. They thrive on excitement and new experiences.",
-        "strengths": [
-          "Adventurous and spontaneous",
-          "Skilled in crisis management",
-          "Confident and persuasive"
-        ],
-        "weaknesses": [
-          "Risk-takers who may overlook consequences",
-          "May be impatient and impulsive",
-          "Tends to avoid long-term commitments"
-        ]
-      },
-      {
-        "name": "ESFP",
-        "type": "Extraverted_Sensing_Feeling_Perceiving",
-        "short_desc": "The Performer",
-        "desc": "ESFPs are lively and social. They enjoy being the center of attention and have a love for entertainment.",
-        "strengths": [
-          "Enthusiastic and charismatic",
-          "Spontaneous and fun-loving",
-          "Connects easily with others"
-        ],
-        "weaknesses": [
-          "May be impulsive and risk-prone",
-          "Avoids long-term planning",
-          "May struggle with criticism"
-        ]
-      },
-      {
-        "name": "ENFP",
-        "type": "Extraverted_Intuition_Feeling_Perceiving",
-        "short_desc": "The Champion",
-        "desc": "ENFPs are enthusiastic and creative. They are driven by their passion and desire to explore new ideas.",
-        "strengths": [
-          "Inspiring and open-minded",
-          "Creative and imaginative",
-          "Easily connects with others"
-        ],
-        "weaknesses": [
-          "May struggle with focus and follow-through",
-          "Tends to be disorganized",
-          "May be overly idealistic"
-        ]
-      },
-      {
-        "name": "ENTP",
-        "type": "Extraverted_Intuition_Thinking_Perceiving",
-        "short_desc": "The Visionary",
-        "desc": "ENTPs are innovative and resourceful. They thrive on intellectual challenges and exploring new concepts.",
-        "strengths": [
-          "Quick and imaginative thinkers",
-          "Easily adapts to change",
-          "Enjoys debating and problem-solving"
-        ],
-        "weaknesses": [
-          "May be seen as argumentative or provocative",
-          "Tends to procrastinate",
-          "Struggles with routine tasks"
-        ]
-      },
-      {
-        "name": "ESTJ",
-        "type": "Extraverted_Sensing_Thinking_Judging",
-        "short_desc": "The Supervisor",
-        "desc": "ESTJs are practical and organized. They excel in leadership and management roles.",
-        "strengths": [
-          "Efficient and dependable",
-          "Natural leaders and organizers",
-          "Straightforward and honest"
-        ],
-        "weaknesses": [
-          "May be seen as inflexible or bossy",
-          "Struggles with change and ambiguity",
-          "Tends to be critical of others"
-        ]
-      },
-      {
-        "name": "ESFJ",
-        "type": "Extraverted_Sensing_Feeling_Judging",
-        "short_desc": "The Provider",
-        "desc": "ESFJs are warm and generous. They are natural caregivers and are committed to their relationships.",
-        "strengths": [
-          "Empathetic and nurturing",
-          "Responsible and dependable",
-          "Creates harmony in their environment"
-        ],
-        "weaknesses": [
-          "May be overly self-sacrificing",
-          "Avoids conflict at all costs",
-          "Tends to be critical of themselves"
+          "Dissatisfaction can breed resentment"
         ]
       }
     ]
   }
-
 ]

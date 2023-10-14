@@ -29,37 +29,36 @@ class _AboutPageState extends State<AboutPage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(body: Container( alignment: Alignment.center,
+        padding: EdgeInsets.all(10),
         decoration: ThemeHelper.fullScreenBgBoxDecoration(),child: SingleChildScrollView(
             child: FutureBuilder(
               future: testWikiObject,
               builder: (context,AsyncSnapshot snapshot) {
                 if(snapshot.hasData) {
                   return Column(
-                  children: List.from([Padding(
-                    padding: const EdgeInsets.only(right: 20.0),
-                    child: Align(alignment: Alignment.centerLeft,
-                      child: FittedBox(
-                        child: Row(
-                          children: [
-                            IconButton(onPressed: ()=>Get.back(), icon: Icon(Icons.arrow_back_ios_new_outlined,color: Theme.of(context).primaryColor,)),
-                            Text(
-                              snapshot.data!.title!,
-                              style: Theme.of(context).textTheme.headline4,
-                            ),
-                          ],
+                  children: List.from([Row(
+                    children: [
+                      GestureDetector(
+                        child: Image(
+                          image: AssetImage("assets/icons/back.png"),
+                          width: 40,
                         ),
+                        onTap: () {
+                          Navigator.pop(context);
+                        },
                       ),
-                    ),
-                  ),SizedBox(height: 10,)],)..addAll(List.from(snapshot.data!.data!)
-                      .map((objectData) => Padding(
-                        padding: const EdgeInsets.fromLTRB(10.0,0,10,0),
-                        child: GestureDetector(
-                                            child: categoryDetailsItemView(testWikiObjectData:objectData,folder: snapshot.data!.folder!,imagePath: snapshot.data!.imagePath),
-                                            onTap: () {
-                        Navigator.of(context).pushNamed("/styles", arguments: objectData.type);
-                                            },
-                                          ),
-                      ))
+                      Text(
+                        "Leadership Styles",
+                        style: Theme.of(context).textTheme.headline4,
+                      ),
+                    ],
+                  ),],)..addAll(List.from(snapshot.data.data)
+                      .map((style) => GestureDetector(
+                    child: categoryDetailsItemView(testWikiObjectData:style),
+                    onTap: () {
+                      Navigator.of(context).pushNamed("/styles", arguments: style.type);
+                    },
+                  ))
                       .toList())
                 );
                 } else {

@@ -269,7 +269,7 @@ decoration: BoxDecoration(border: Border.all(color: ThemeHelper.protocolMaroon,w
           maxLength: maxLength,
           keyboardType:textInputType,
           style: TextStyle(
-              fontFamily: "OpenSans", color: ThemeHelper.protocolMaroon,fontWeight: FontWeight.w700),
+              fontFamily: "baloo", color: ThemeHelper.protocolMaroon),
           decoration:  InputDecoration(counterText:"",border: InputBorder.none,hintText: hintText,hintStyle: TextStyle(color: ThemeHelper.protocolMaroon.withOpacity(0.8),fontWeight: FontWeight.bold)),
         ),
       ),

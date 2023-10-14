@@ -103,11 +103,6 @@ flutter:
         - asset: assets/fonts/BalooDa2-Regular.ttf
         - asset: assets/fonts/BalooDa2-Bold.ttf
         - asset: assets/fonts/BalooDa2-Medium.ttf
-    - family: OpenSans
-      fonts:
-        - asset: assets/fonts/OpenSans-Regular.ttf
-        - asset: assets/fonts/OpenSans-Bold.ttf
-        - asset: assets/fonts/OpenSans-Medium.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

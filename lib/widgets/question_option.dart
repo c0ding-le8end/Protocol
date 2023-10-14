@@ -14,14 +14,41 @@ class QuestionOption extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: EdgeInsets.all(10),
-      margin: const EdgeInsets.only(bottom: 10),
       alignment: Alignment.center,
-      decoration: BoxDecoration(color: Theme.of(context).primaryColor,borderRadius: BorderRadius.circular(30)),
-      child: Container(
-        child: Text(
-          text,
-          style: Theme.of(context).textTheme.headline5!.copyWith(color: Colors.white),
-        ),
+      child: Row(
+        children: [
+          SizedBox(
+            width: 50,
+            height: 50,
+            child: Container(
+              alignment: Alignment.center,
+              width: 40,
+              height: 40,
+              decoration: BoxDecoration(
+                  border: Border.all(color: Colors.deepPurple, width: 4),
+                  borderRadius: BorderRadius.all(Radius.circular(20)),
+                  // color: isSelected
+                  //     ? Theme.of(context).primaryColor
+                  //     :
+                 color: Colors.white),
+            ),
+          ),
+          Expanded(
+            flex: 1,
+            child: Container(
+              alignment: Alignment.centerLeft,
+              padding: EdgeInsets.only(left: 10),
+              child: Text(
+                text,
+                style: TextStyle(
+                  fontSize: 25,
+                  color: Theme.of(context).primaryColor,
+                ),
+                textAlign: TextAlign.left,
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

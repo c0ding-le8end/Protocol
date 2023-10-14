@@ -27,7 +27,7 @@ class DiscoButton extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 12.0),
       child: Container(width: width,
-        height: height,decoration: BoxDecoration(color:isActive==true?Theme.of(context).primaryColor:Colors.transparent,borderRadius: BorderRadius.all(Radius.circular(10)),border: Border.all(color: Theme.of(context).primaryColor,width: 5.0)),
+        height: height,decoration: BoxDecoration(color:isActive==true?buttonColor:Colors.transparent,borderRadius: BorderRadius.all(Radius.circular(10)),border: Border.all(color: buttonColor!,width: 5.0)),
         child: TextButton(
           onPressed: () {
             onPressed!();

@@ -2,19 +2,19 @@ import 'package:flutter/material.dart';
 
 class ThemeHelper {
   // static Color primaryColor = Color(0xff6758C0);
-  static Color primaryColor = Colors.deepPurple;
+  static Color primaryColor = Color(0xffC50000);
   // static Color accentColor = Color(0xff20aebe);
   static Color accentColor = Color(0xff008080);
   static Color shadowColor = Color(0xffa2a6af);
-static Color protocolMaroon=Color(0xff000000);
+static Color protocolMaroon=Color(0xff800000);
   static ThemeData getThemeData() {
     return ThemeData(
       fontFamily: 'Baloo',
-      useMaterial3: true,
-      colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple,primary: primaryColor),
+      primarySwatch: Colors.deepPurple,
+      colorScheme: ColorScheme.light(primary: Colors.deepPurple, secondary: Colors.teal),
       textTheme: TextTheme(
           headline3: TextStyle(
-            color: Colors.deepPurple,
+            color: accentColor,
             fontFamily: 'Baloo',
           ),
           headline4: TextStyle(
@@ -25,7 +25,7 @@ static Color protocolMaroon=Color(0xff000000);
       headline5: TextStyle(
           color: protocolMaroon,
           fontFamily: 'Baloo',
-          fontWeight: FontWeight.w500,
+          fontWeight: FontWeight.bold,
         fontSize: 20
       ),),
     );

@@ -13,7 +13,7 @@ class AuthController extends GetxController
   @override
   void onInit() async{
     userData=await SharedPreferences.getInstance();
-userData!.clear();
+// userData.clear();
     print("$userData 17ac.dart");
     if(userData!.getBool("Leadership Styles")==true)
       {

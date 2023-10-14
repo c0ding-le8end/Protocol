@@ -1,8 +1,10 @@
+import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:get/state_manager.dart';
 import 'package:protocol/screens/test_screen.dart';
 import 'package:protocol/stores/test_wiki.dart';
 
+import '../models/Questions.dart';
 import '../models/dto/option_selection.dart';
 import '../models/quiz.dart';
 import '../stores/quiz_store.dart';
@@ -365,48 +367,48 @@ if(option1=='a') {
           }
         }
       }
-      if(personalityScores['Extraverted']<=personalityScores['Introverted'])
+    }
+    if(personalityScores['Extraverted']<=personalityScores['Introverted'])
       {
         finalPersonalityType=finalPersonalityType+'I';
       }
-      else
+    else
       {
         finalPersonalityType=finalPersonalityType+'E';
       }
-      if(personalityScores['Intuitive(N)']>=personalityScores['Sensing'])
-      {
-        finalPersonalityType=finalPersonalityType+'N';
-      }
-      else
-      {
-        finalPersonalityType=finalPersonalityType+'S';
-      }
-      if(personalityScores['Thinking']>personalityScores['Feeling'])
-      {
-        finalPersonalityType=finalPersonalityType+'T';
-      }
-      else
-      {
-        finalPersonalityType=finalPersonalityType+'F';
-      }
-      if(personalityScores['Judging']<=personalityScores['Perceiving'])
-      {
-        finalPersonalityType=finalPersonalityType+'P';
-      }
-      else
-      {
-        finalPersonalityType=finalPersonalityType+'J';
-      }
-      print("__________________________________________");
-      print("E:${personalityScores['Extraverted']}");
-      print("I:${personalityScores['Introverted']}");
-      print("N:${personalityScores['Intuitive(N)']}");
-      print("S:${personalityScores['Sensing']}");
-      print("T:${personalityScores['Thinking']}");
-      print("F:${personalityScores['Feeling']}");
-      print("J:${personalityScores['Judging']}");
-      print("P:${personalityScores['Perceiving']}");
-      print("__________________________________________");
+    if(personalityScores['Intuitive(N)']>=personalityScores['Sensing'])
+    {
+      finalPersonalityType=finalPersonalityType+'N';
     }
+    else
+    {
+      finalPersonalityType=finalPersonalityType+'S';
+    }
+    if(personalityScores['Thinking']>personalityScores['Feeling'])
+    {
+      finalPersonalityType=finalPersonalityType+'T';
+    }
+    else
+    {
+      finalPersonalityType=finalPersonalityType+'F';
+    }
+    if(personalityScores['Judging']<=personalityScores['Perceiving'])
+    {
+      finalPersonalityType=finalPersonalityType+'P';
+    }
+    else
+    {
+      finalPersonalityType=finalPersonalityType+'J';
+    }
+    print("__________________________________________");
+    print("E:${personalityScores['Extraverted']}");
+    print("I:${personalityScores['Introverted']}");
+    print("N:${personalityScores['Intuitive(N)']}");
+    print("S:${personalityScores['Sensing']}");
+    print("T:${personalityScores['Thinking']}");
+    print("F:${personalityScores['Feeling']}");
+    print("J:${personalityScores['Judging']}");
+    print("P:${personalityScores['Perceiving']}");
+    print("__________________________________________");
   }
 }
