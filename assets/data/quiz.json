@@ -1,0 +1,1522 @@
+[
+  {
+    "id": 1,
+    "title": "Leadership Styles",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {"index": 1,
+        "text": "I believe teams work best when everyone is involved in taking decisions",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 2,
+        "text": "I’m good at bringing out the best in other people",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 3,
+        "text": "I can take on a leadership role when needed, but don’t consider myself a ‘leader’",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 4,
+        "text": "I’m happy to act as the spokesperson for our group",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 5,
+        "text": "I’m good at adapting to different situations",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 6,
+        "text": "I’m determined to push projects forward and get results",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 7,
+        "text": "I think people should be allowed to make mistakes in order to learn",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 8,
+        "text": "I enjoy working on committees",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 9,
+        "text": "I think the most important thing for a group is the well-being of its members",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 10,
+        "text": "I can see situations from many different perspectives",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 11,
+        "text": "I don’t mind how long discussions last, so long as we consider every angle",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 12,
+        "text": "I am good at organising other people",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 13,
+        "text": "I think all group members should abide by formal decisions, so long as we follow proper procedures",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 14,
+        "text": "I set myself high standards and expect others to do the same for themselves",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 15,
+        "text": "I enjoy role-playing exercises",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 16,
+        "text": "I love helping other people to develop",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Conflict Management",
+    "description": "Think about how you usually respond to conflict.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {"index": 1,
+        "text": "I enjoy digging into the issues to find solutions that work for everybody.",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 2,
+        "text": "I do my best to negotiate a “give-and-take” approach to conflict.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 3,
+        "text": "I believe it’s important to keep relationships civil and associates happy.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 4,
+        "text": "It’s important to argue my case well to convince the other person of the\nmerits of my position.\n",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 5,
+        "text": "In times of conflict, I gather as many facts as I can to keep the\nconversation productive.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 6,
+        "text": "In a conflict situation, I am calm and collected and usually leave as soon as possible.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 7,
+        "text": "I approach conflict from both sides of the argument. What are my needs? What will work for the other person? What are the actual issues?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 8,
+        "text": "My preferred way of dealing with conflict is to compromise and move past the discomfort.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 9,
+        "text": "Often, I enjoy conflict. It is challenging and allows me to engage my intellect.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 10,
+        "text": "Conflict makes me feel stressed and anxious.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 11,
+        "text": "Friends and family are everything to me, so I often accommodate their point of view.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 12,
+        "text": "When I see an obvious solution, I argue my case strongly.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 13,
+        "text": "If it comes to a stand off, I will meet people halfway.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 14,
+        "text": "Keeping the peace is my priority. I don’t like tension.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 15,
+        "text": "When I have bad feelings about someone, I keep them to myself.",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Always",
+            "isCorrect": true
+          },
+          {
+            "text": "Usually",
+            "isCorrect": false
+          },
+          {
+            "text": "Rarely",
+            "isCorrect": false
+          },
+          {
+            "text": "Never",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {"id":3,
+    "title": "Personality Test",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {"index": 1,
+      "text": "When you go somewhere for the day,would you rather",
+      "duration": 30,
+      "shuffleOptions": false,
+      "options": [
+        {
+          "text": "Plan and then leave for the day",
+          "isCorrect": true
+        },
+        {
+          "text": "Just Go!!",
+          "isCorrect": false
+        }
+      ]
+    },{"index": 2,
+      "text": "If you were a teacher would you rather teach",
+      "duration": 30,
+      "shuffleOptions": false,
+      "options": [
+        {
+          "text": "Fact based courses",
+          "isCorrect": true
+        },
+        {
+          "text": "Courses involving opinion or theory",
+          "isCorrect": false
+        }
+      ]
+    },
+      {"index": 3,
+        "text": "Are you usually",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "A 'Good Mixer with groups of People Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Rather Quiet And Reserved?",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 4,
+        "text": "Do you more often let",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Your Heart Rule your Head Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Your head Rule Your Heart?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 5,
+        "text": "In Doing Something that many other People Do,Would You Rather",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Invent a way of your own,or",
+            "isCorrect": true
+          },
+          {
+            "text": "Do it The Accepted Way?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 6,
+        "text": "Among Your Friends,Are You ",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Full of News About EveryBody,Or",
+            "isCorrect": true
+          },
+          {
+            "text": "One of The Last to Heat What is Going On?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 7,
+        "text": "Does The Idea Of Making A List of What You Should Get Done Over A Weekend",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Help You,Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Stress You, Or",
+            "isCorrect": false
+          },
+          {
+            "text": "Positively Depress You?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 8,
+        "text": "When You Have A Special Job to Do,Do You Like To",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Organize It Carefully Before You Start,Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Find Out What is Necessary As You Go Along?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 9,
+        "text": "Do You Tend To Have",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Broad Friendships with Many Different People,Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Deep Friendship with very Few People?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 10,
+        "text": "Do You Admire More The People Who Are",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Acting to Never Make Themselves The Center of Attention, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Too Original To Care Whether They Are The Center Of Attention Or Not",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 11,
+        "text": "Do You Prefer To",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Arrange Picnics,Parties etc,Well In Advance, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Be Free To Do Whatever To Looks Like Fun When The Time Comes?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 12,
+        "text": "Do You Usually Get Along Better With",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Realistic People, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Imaginative People",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 13,
+        "text": "When You Are With The Group of People,Would you usually Rather",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Join in The Talk of The Group, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Stand Back And Listen First?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 14,
+        "text": "Is it a Higher Compliment to be called",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "A Person of Real Feeling, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "A Consistently Reasonable Person?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 15,
+        "text": "In Reading For Pleasure,Do You",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Enjoy Odd or Original Ways of Saying Things, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Like Writers To Say Exactly What They Mean?",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 16,
+        "text": "Do you",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Talk Easily to Almost Anyone For As Long as You Have to, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Find A Lot To Say Only To Certain People or Under Certain Conditions?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 17,
+        "text": "Does Following a Schedule",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Appeal To You, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Cramp You?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 18,
+        "text": "When it is Settled well in Advance That you will do a Certain Thing at a Certain Time,Do You Find It",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Nice To Be Able To PLan Accordingly,Or",
+            "isCorrect": true
+          },
+          {
+            "text": "A little Unpleasant to Be Tied Down?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 19,
+        "text": "Are you More Successful",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "At Following a Carefully Worked Out Plan, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "At Dealing With the Unexpected and Seeing Things Quickly What should be Done?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 20,
+        "text": "Would You Rather Be Considered",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "A Practical Person, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "An Out-Of-Box Thinking Person",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 21,
+        "text": "In A Large Group,Do You More Often",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Introduce Others, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Get Introduced?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 22,
+        "text": "Do you usually",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Value Emotion More than Logic, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Value Logic More than Feelings?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 23,
+        "text": "Would You Rather Have as a Friend",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Someone who is Always Coming Up with new Ideas, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Someone who has Both Feet ON Ground?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 24,
+        "text": "Can the New People You Meet Tell What You Are Interested In",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Right Away,",
+            "isCorrect": true
+          },
+          {
+            "text": "Only After they Really Get to Know You?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 25,
+        "text": "In Your Daily Work,Do You",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Usually Plan your Work So you won't Need to Work under Pressure, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Rather Enjoy An Emergency That Makes You Work Against Time, Or",
+            "isCorrect": false
+          },
+          {
+            "text": "Hate to Work Under Pressure?",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 26,
+        "text": "Do you usually",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Show Your Feelings Freely, Or",
+            "isCorrect": true
+          },
+          {
+            "text": "Keep Your Feelings To Yourself?",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {"index": 27,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Scheduled",
+            "isCorrect": true
+          },
+          {
+            "text": "Unplanned",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 28,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Facts",
+            "isCorrect": true
+          },
+          {
+            "text": "Ideas",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 29,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Quiet",
+            "isCorrect": true
+          },
+          {
+            "text": "Hearty",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 30,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Convincing",
+            "isCorrect": true
+          },
+          {
+            "text": "Touching",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 31,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Imaginative",
+            "isCorrect": true
+          },
+          {
+            "text": "Matter-of-Fact",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 32,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Benefits",
+            "isCorrect": true
+          },
+          {
+            "text": "Blessings",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 33,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Peacemaker",
+            "isCorrect": true
+          },
+          {
+            "text": "Judge",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 34,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Systematic",
+            "isCorrect": true
+          },
+          {
+            "text": "Spontaneous",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 35,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Statement",
+            "isCorrect": true
+          },
+          {
+            "text": "Concept",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 36,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Reserved",
+            "isCorrect": true
+          },
+          {
+            "text": "Talkative",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 37,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Analyze",
+            "isCorrect": true
+          },
+          {
+            "text": "Sympathize",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 38,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Create",
+            "isCorrect": true
+          },
+          {
+            "text": "Make",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 39,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Determined",
+            "isCorrect": true
+          },
+          {
+            "text": "Devoted",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 40,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Gentle",
+            "isCorrect": true
+          },
+          {
+            "text": "Firm",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 41,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Systematic",
+            "isCorrect": true
+          },
+          {
+            "text": "Casual",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 42,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Certainty",
+            "isCorrect": true
+          },
+          {
+            "text": "Theory",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 43,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Calm",
+            "isCorrect": true
+          },
+          {
+            "text": "Lively",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 44,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Mercy",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 45,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Fascinating",
+            "isCorrect": true
+          },
+          {
+            "text": "Sensible",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 46,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Firm-Minded",
+            "isCorrect": true
+          },
+          {
+            "text": "Warm Hearted",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 47,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Feeling",
+            "isCorrect": true
+          },
+          {
+            "text": "Thinking",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 48,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Literal",
+            "isCorrect": true
+          },
+          {
+            "text": "Figurative",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 49,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Anticipation",
+            "isCorrect": true
+          },
+          {
+            "text": "Compassion",
+            "isCorrect": false
+          }
+        ]
+      },
+      {"index": 50,
+        "text": "Which word appeals you more?",
+        "duration": 30,
+        "shuffleOptions": false,
+        "options": [
+          {
+            "text": "Hard",
+            "isCorrect": true
+          },
+          {
+            "text": "Soft",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

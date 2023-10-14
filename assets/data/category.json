@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Leadership",
+    "imagePath": "assets/icons/category/leadership.png"
+  },
+  {
+    "id": 2,
+    "name": "Conflict",
+    "imagePath": "assets/icons/category/conflict.png"
+  },
+  {
+    "id": 3,
+    "name": "personality",
+    "imagePath": "assets/icons/category/personality.png"
+  }
+]

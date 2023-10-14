@@ -1,0 +1,10 @@
+[{"id":"1",
+  "name": "Leadership assessment",
+  "type": "leadership",
+  "desc": "Discover your preferred leadership style"
+},
+{"id":"2",
+"name":"Conflict Management",
+"type": "conflict-management",
+"desc": "Think about how you usually respond to conflict"
+}]
