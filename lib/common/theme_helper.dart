@@ -6,7 +6,7 @@ class ThemeHelper {
   // static Color accentColor = Color(0xff20aebe);
   static Color accentColor = Color(0xff008080);
   static Color shadowColor = Color(0xffa2a6af);
-static Color protocolMaroon=Color(0xff000000);
+static Color primaryText=Color(0xff000000);
   static ThemeData getThemeData() {
     return ThemeData(
       fontFamily: 'Baloo',
@@ -23,7 +23,7 @@ static Color protocolMaroon=Color(0xff000000);
             fontWeight: FontWeight.bold
           ),
       headline5: TextStyle(
-          color: protocolMaroon,
+          color: primaryText,
           fontFamily: 'Baloo',
           fontWeight: FontWeight.w500,
         fontSize: 20

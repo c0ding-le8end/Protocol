@@ -231,7 +231,7 @@ Get.toNamed('/UserForm');
           child: FittedBox(
             child: Text(
               about,
-              style: TextStyle(fontSize: 20, color: ThemeHelper.protocolMaroon),
+              style: TextStyle(fontSize: 20, color: ThemeHelper.primaryText),
             ),
           ),
         ),
@@ -247,7 +247,7 @@ Get.toNamed('/UserForm');
         },
         child: Text(
           "Back to menu",
-          style: TextStyle(fontSize: 20, color: ThemeHelper.protocolMaroon),
+          style: TextStyle(fontSize: 20, color: ThemeHelper.primaryText),
         ),
         isActive: false,
       ),

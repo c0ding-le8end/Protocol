@@ -260,17 +260,17 @@ class CustomFormField extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(width: 300,
       height: 50,
-decoration: BoxDecoration(border: Border.all(color: ThemeHelper.protocolMaroon,width: 2.0)),
+decoration: BoxDecoration(border: Border.all(color: ThemeHelper.primaryText,width: 2.0)),
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20.0),
         child: TextFormField(
           controller: controller,
-          cursorColor: ThemeHelper.protocolMaroon,
+          cursorColor: ThemeHelper.primaryText,
           maxLength: maxLength,
           keyboardType:textInputType,
           style: TextStyle(
-              fontFamily: "OpenSans", color: ThemeHelper.protocolMaroon,fontWeight: FontWeight.w700),
-          decoration:  InputDecoration(counterText:"",border: InputBorder.none,hintText: hintText,hintStyle: TextStyle(color: ThemeHelper.protocolMaroon.withOpacity(0.8),fontWeight: FontWeight.bold)),
+              fontFamily: "OpenSans", color: ThemeHelper.primaryText,fontWeight: FontWeight.w700),
+          decoration:  InputDecoration(counterText:"",border: InputBorder.none,hintText: hintText,hintStyle: TextStyle(color: ThemeHelper.primaryText.withOpacity(0.8),fontWeight: FontWeight.bold)),
         ),
       ),
     );

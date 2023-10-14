@@ -63,7 +63,7 @@ class _AboutPageState extends State<AboutPage> {
                       .toList())
                 );
                 } else {
-                  return Center(child: CircularProgressIndicator(color: ThemeHelper.protocolMaroon,),);
+                  return Center(child: CircularProgressIndicator(color: ThemeHelper.primaryText,),);
                 }
               }
             ),

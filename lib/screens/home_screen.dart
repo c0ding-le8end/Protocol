@@ -221,7 +221,7 @@ class _HomeScreenState extends State<HomeScreen> {
         child: FittedBox(
           child: Text(
             "About Leadership styles",
-            style: TextStyle(fontSize: 20, color: ThemeHelper.protocolMaroon),
+            style: TextStyle(fontSize: 20, color: ThemeHelper.primaryText),
           ),
         ),
       ),
