@@ -19,6 +19,14 @@ This repository contains the source code for the Protocol Employee Development A
 ## App Images
 
 Here are some screenshots from the app to give you a visual representation of its interface:
-![Screenshot_1698140997](https://github.com/c0ding-le8end/Protocol/assets/64279132/e8f255c9-0ed1-4bc6-862c-d24f6b153353)
+
+<br>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/91b74f79-faf9-42da-9dc5-e81c1fc41b71" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/d07ee916-c15b-49ce-8e91-4917f7f526f8" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/0ecaf488-90e3-4aca-82dd-4b5b4bb82f49" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/5f08a20b-b93f-4412-bd97-c3796a9df335" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/814b97b8-bf81-44c9-a88e-fc4c960afedf" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/832049eb-1843-4cb0-b90a-f581fd5fa9bf" width=300px height=400px /></kbd>
+<kbd style={float:left}><img src="https://github.com/c0ding-le8end/Protocol/assets/64279132/248db1be-cbe7-4789-ad5a-4a263cf693b6" width=300px height=400px /></kbd>
 
 
